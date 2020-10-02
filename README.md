@@ -20,4 +20,4 @@ Essentially this bot is created to collect hints from players who choose to cont
 - Google Sheets API
 
 **References**
-- 
+- [Google Sheets and Python - Tutorial 2020](https://www.youtube.com/watch?v=T1vqS1NL89E)
