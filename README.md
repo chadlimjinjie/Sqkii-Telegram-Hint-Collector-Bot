@@ -19,4 +19,5 @@ Essentially this bot is created to collect hints from players who choose to cont
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
 - Google Sheets API
 
-
+**References**
+- 
