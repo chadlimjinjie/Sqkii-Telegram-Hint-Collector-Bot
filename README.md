@@ -1,5 +1,6 @@
 # Sqkii Telegram Hint Collector Bot
 **What is Sqkii?**
+
 Sqkii is a Singapore Marketing and Advertising company which specialise in applying gamification to create viral campaigns.
 
 Campaign thus far:
