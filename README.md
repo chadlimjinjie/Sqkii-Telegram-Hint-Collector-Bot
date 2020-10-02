@@ -3,7 +3,7 @@
 
 Sqkii is a Singapore Marketing and Advertising company which specialise in applying gamification to create viral campaigns.
 
-Campaign thus far:
+**Campaign thus far:**
 - Sqkii Hunt From Home (#HFH) 2nd installment
 - Sqkii Hunt From Home (#HFH) 1st installment
 - FRANK by OCBC Sqkii Land™
